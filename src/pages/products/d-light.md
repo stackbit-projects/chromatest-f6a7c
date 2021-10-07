@@ -1,6 +1,6 @@
 ---
 id: d-light
-title: lorem-ipsum
+title: D-Light
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
