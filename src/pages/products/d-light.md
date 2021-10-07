@@ -4,7 +4,7 @@ title: D-Light
 description: lorem-ipsum
 price: $1500
 order: 0
-featured: false
+featured: true
 seo:
   title: ''
   description: ''
