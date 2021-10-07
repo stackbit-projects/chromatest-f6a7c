@@ -3,7 +3,7 @@
     "logo_dark": "images/logo.svg",
     "logo_light": "images/logo-white.svg",
     "hamburger_background_image": "/images/leaf-light-grey.svg",
-    "bg_image_primary": "/images/header.jpg",
+    "bg_image_primary": "https://cdn.shopify.com/s/files/1/0257/8359/9170/files/Chroma_Logo_2048x.png?v=1587438646",
     "bg_image_primary_opacity": 60,
     "bg_image_secondary": "/images/leaf-light-grey.svg",
     "bg_image_product": "/images/leaf.svg",
