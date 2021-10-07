@@ -2,7 +2,7 @@
 id: d-light
 title: D-Light
 description: lorem-ipsum
-price: lorem-ipsum
+price: $1500
 order: 0
 featured: false
 seo:
